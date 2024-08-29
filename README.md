@@ -8,14 +8,23 @@ Awesome lists about HarmonyOS
 
 # Contents
 
-- [Storage](#storage)
+- [Libraries](#libraries)
+  - [OpenSSL](#openssl)
 
+- [Storage](#storage)
   - [MMKV](#mmkv)
 
 - [Tool](#tool)
   - [ohos-rs](#ohos-rs)
   - [node-addon-api-ohos](#node-addon-api-ohos)
   - [Aki](#aki)
+
+
+## Libraries
+
+### [OpenSSL](https://github.com/ohos-rs/ohos-openssl)
+
+A precompiled OpenSSL for HarmonyOS
 
 ## Storage
 
