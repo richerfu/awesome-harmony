@@ -1,6 +1,6 @@
 # Awesome Harmony
 
-![Static Badge](https://img.shields.io/badge/PR-Welcome-green) ![GitHub License](https://img.shields.io/github/license/:richerfu/:awesome-harmony)
+![Static Badge](https://img.shields.io/badge/PR-Welcome-green) ![GitHub License](https://img.shields.io/github/license/richerfu/awesome-harmony)
 
 Awesome lists about HarmonyOS
 
